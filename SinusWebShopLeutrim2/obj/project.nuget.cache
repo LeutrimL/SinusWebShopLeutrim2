@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CDNefrw6NgvBG7g9zehWkSKGxh3fSMkiNRUTqKIF+6Sf6kQLW/+SEnCzfU6lVF3UPsq/IfjQiuF2FXEmNzeYfw==",
+  "dgSpecHash": "tnUTPbncDgtL7uvdDUFi92c2jJvBXE/Fz9FfvakmzvsC+aY3GtNXGhQHhp00ZxsujxsuqEHoyjQw2E92cZcKrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gentrit Limani\\Desktop\\Systemutveckling\\VVA\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gentrit Limani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

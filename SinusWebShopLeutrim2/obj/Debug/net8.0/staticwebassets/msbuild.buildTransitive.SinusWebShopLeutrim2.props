@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SinusWebShopLeutrim2.props" />
+</Project>
