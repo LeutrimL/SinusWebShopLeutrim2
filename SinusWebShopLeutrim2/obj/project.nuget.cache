@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tnUTPbncDgtL7uvdDUFi92c2jJvBXE/Fz9FfvakmzvsC+aY3GtNXGhQHhp00ZxsujxsuqEHoyjQw2E92cZcKrQ==",
+  "dgSpecHash": "H0idUmRpbB15Y7Mkc3E8C97iwH8AEVxXB2d1GgRIoYEDrCtFEK2/IO12PouLyBY45AgP2/iEqQf62fcJnnqfZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gentrit Limani\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\8.0.4\\microsoft.aspnetcore.components.webassembly.server.8.0.4.nupkg.sha512",
     "C:\\Users\\Gentrit Limani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []

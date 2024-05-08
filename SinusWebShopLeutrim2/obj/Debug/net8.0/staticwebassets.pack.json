@@ -17,10 +17,6 @@
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SinusWebShopLeutrim2.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

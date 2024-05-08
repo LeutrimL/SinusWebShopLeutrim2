@@ -1,4 +1,7 @@
-﻿namespace SinusWebShopLeutrim2.API
+﻿using Newtonsoft.Json;
+using SinusWebShopLeutrim2.Models;
+
+namespace SinusWebShopLeutrim2.API
 {
     public class DataFetcher
     {

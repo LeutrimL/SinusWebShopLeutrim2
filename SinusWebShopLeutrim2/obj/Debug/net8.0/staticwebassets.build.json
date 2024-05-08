@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yaG9za3e3mGL+GMS9aeIqWlgwRD7VpXMgmaKDQgWvMQ=",
+  "Hash": "5kfnQZLDx4RM1fDJfvKkVp2cHbSFQsGzj1jOazoQj/U=",
   "Source": "SinusWebShopLeutrim2",
   "BasePath": "_content/SinusWebShopLeutrim2",
   "Mode": "Default",
@@ -110,25 +110,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\wwwroot\\favicon.png",
-      "SourceId": "SinusWebShopLeutrim2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\wwwroot\\",
-      "BasePath": "_content/SinusWebShopLeutrim2",
-      "RelativePath": "favicon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.png"
     }
   ]
 }
