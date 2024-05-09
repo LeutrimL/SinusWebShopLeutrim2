@@ -1,0 +1,143 @@
+﻿@page "/product/{Id:int}"
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+@rendermode InteractiveServer
+
+@using SinusWebShopLeutrim2.Models
+@using System.Net.Http.Json
+
+<div class="product-container">
+    @if (Product != null)
+    {
+        <div class="product-image">
+            <img src="@Product.Images[currentIndex]" alt="@Product.Title" />
+            @if (Product.Images.Count > 1)
+            {
+                <div class="image-navigation">
+                    <button @onclick="PreviousImage" class="image-nav-button" disabled="@IsFirstImage">&#10094;</button>
+                    <span class="image-counter">@currentIndex + 1 of @Product.Images.Count</span>
+                    <button @onclick="NextImage" class="image-nav-button" disabled="@IsLastImage">&#10095;</button>
+                </div>
+            }
+        </div>
+        <div class="product-details">
+            <h1>@Product.Title</h1>
+            <p class="description">@Product.Description</p>
+            <p class="price">Price: @Product.Price</p>
+            <p class="stock">Stock: @Product.Stock</p>
+            <p class="brand">Brand: @Product.Brand</p>
+            <p class="category">Category: @Product.Category</p>
+            <button @onclick="AddToCart" class="add-to-cart-btn">Add to Cart</button>
+        </div>
+    }
+    else
+    {
+        <p>Product not found.</p>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    public Product Product { get; set; }
+    public int currentIndex { get; set; } = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Product = await httpClient.GetFromJsonAsync<Product>($"products/{Id}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading product: {ex.Message}");
+        }
+    }
+
+    private bool IsFirstImage => currentIndex == 0;
+    private bool IsLastImage => currentIndex == Product.Images.Count - 1;
+
+    private void PreviousImage()
+    {
+        if (!IsFirstImage)
+        {
+            currentIndex--;
+        }
+    }
+
+    private void NextImage()
+    {
+        if (!IsLastImage)
+        {
+            currentIndex++;
+        }
+    }
+
+    private async Task AddToCart()
+    {
+        // Simulate adding to cart with delay
+        Console.WriteLine("Adding product to cart...");
+        await Task.Delay(2000); // Simulate async operation
+        Console.WriteLine("Product added to cart!");
+        NavigationManager.NavigateTo("/cart"); // Redirect to cart page
+    }
+}
+
+<style>
+    .product-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 20px;
+    }
+
+    .product-image {
+        flex: 1;
+        max-width: 400px;
+        margin-right: 20px;
+    }
+
+    .product-details {
+        flex: 2;
+        max-width: 600px;
+    }
+
+    .image-nav-button {
+        background-color: transparent;
+        border: none;
+        color: #333;
+        font-size: 24px;
+        cursor: pointer;
+    }
+
+    .image-counter {
+        margin: 0 10px;
+        color: #333;
+    }
+
+    .description {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .price, .stock, .brand, .category {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+
+    .add-to-cart-btn {
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .add-to-cart-btn:hover {
+            background-color: #0056b3;
+        }
+</style>

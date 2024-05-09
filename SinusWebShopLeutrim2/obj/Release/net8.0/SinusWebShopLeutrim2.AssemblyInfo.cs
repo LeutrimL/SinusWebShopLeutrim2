@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SinusWebShopLeutrim2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd130489572f19953bb0d1391681f163d53454ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07e81c6f3335b391c5c9bb4685995a20497cebae")]
 [assembly: System.Reflection.AssemblyProductAttribute("SinusWebShopLeutrim2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SinusWebShopLeutrim2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
