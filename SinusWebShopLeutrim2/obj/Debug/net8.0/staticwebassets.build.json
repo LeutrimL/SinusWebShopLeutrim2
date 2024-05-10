@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5kfnQZLDx4RM1fDJfvKkVp2cHbSFQsGzj1jOazoQj/U=",
+  "Hash": "Y/n/jsSeDi3yRMSxZoRho3RQu/iThkP4Ih33+wUF634=",
   "Source": "SinusWebShopLeutrim2",
   "BasePath": "_content/SinusWebShopLeutrim2",
   "Mode": "Default",
@@ -53,25 +53,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SinusWebShopLeutrim2.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\wwwroot\\app.css",
-      "SourceId": "SinusWebShopLeutrim2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\wwwroot\\",
-      "BasePath": "_content/SinusWebShopLeutrim2",
-      "RelativePath": "app.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
       "Identity": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\wwwroot\\bootstrap\\bootstrap.min.css",

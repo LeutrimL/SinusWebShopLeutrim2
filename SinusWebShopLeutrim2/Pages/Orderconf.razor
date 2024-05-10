@@ -1,0 +1,73 @@
+﻿@page "/order-confirmation"
+@using SinusWebShopLeutrim2.Models
+@using System.Net.Http.Json
+@inject NavigationManager NavigationManager
+@inject HttpClient HttpClient
+
+<h1 class="text-center">Order Confirmation</h1>
+
+@if (Order != null)
+{
+    <div class="order-details">
+        <h2>Order Details</h2>
+        <p><strong>Order ID:</strong> @Order.OrderId</p>
+        <p><strong>Total Amount:</strong> @Order.TotalAmount</p>
+        <p><strong>Items:</strong></p>
+        <ul>
+            @foreach (var item in Order.OrderItems)
+            {
+                <li>@item.ProductTitle - @item.Quantity</li>
+            }
+        </ul>
+    </div>
+}
+else
+{
+    <p class="text-center">No order details available.</p>
+}
+
+<div class="text-center mt-5">
+    <p>Thank you for your order!</p>
+    <button @onclick="GoToHome" class="btn btn-primary">Go to Home</button>
+</div>
+
+@code {
+    public Order Order { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            // Fetch order details from the server
+            Order = await HttpClient.GetFromJsonAsync<Order>("your-api-url/orders/123"); // Replace "123" with actual order ID
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading order details: {ex.Message}");
+        }
+    }
+
+    private void GoToHome()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}
+
+<style>
+    .order-details {
+        margin-top: 30px;
+    }
+
+        .order-details h2 {
+            margin-bottom: 10px;
+        }
+
+        .order-details ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .order-details li {
+            margin-bottom: 5px;
+        }
+</style>
