@@ -1,0 +1,99 @@
+﻿@page "/cart"
+@inject NavigationManager NavigationManager
+@inject HttpClient HttpClient
+@using SinusWebShopLeutrim2.Models
+@using System.Net.Http.Json
+
+<h1 class="text-center mb-4">Your Shopping Cart</h1>
+
+@if (CartProducts != null && CartProducts.Any())
+{
+    <div class="cart-items">
+        @foreach (var product in CartProducts)
+        {
+            <div class="cart-item">
+                <img src="@product.Thumbnail" alt="@product.Title" class="product-thumbnail" />
+                <div class="item-details">
+                    <h3>@product.Title</h3>
+                    <p>Price: @product.Price</p>
+                    <button @onclick="() => RemoveFromCart(product)" class="btn btn-danger">Remove</button>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p class="text-center">Your cart is empty.</p>
+}
+
+<button @onclick="PayNow" class="btn btn-primary mt-3">Pay now!</button>
+
+@code {
+    public List<Product> CartProducts { get; set; } = new List<Product>();
+
+    private void RemoveFromCart(Product product)
+    {
+        CartProducts.Remove(product);
+    }
+
+    private async Task PayNow()
+    {
+
+        CartProducts.Clear();
+        NavigationManager.NavigateTo("/");
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            List<Product> result = await HttpClient.GetFromJsonAsync<List<Product>>("your-api-url/cart/products");
+            if (result != null)
+            {
+                CartProducts = result;
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading cart products: {ex.Message}");
+        }
+    }
+}
+
+<style>
+    .cart-items {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .cart-item {
+        display: flex;
+        align-items: center;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 10px;
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .item-details {
+        flex-grow: 1;
+        margin-left: 10px;
+    }
+
+    .product-thumbnail {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+
+    .btn {
+        cursor: pointer;
+    }
+</style>
+
+  

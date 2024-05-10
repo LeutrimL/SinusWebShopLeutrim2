@@ -23,7 +23,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 
-// Lägg till Anti-forgery middleware
+// Lägg till Anti-forgery middleware0
 app.UseAntiforgery();
 
 // Lägg till Blazor-komponenter och konfigurera routning
