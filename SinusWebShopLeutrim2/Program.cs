@@ -3,8 +3,9 @@ using SinusWebShopLeutrim2.API;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Lägg till tjänster i containern.
-builder.Services.AddRazorComponents().AddInteractiveServerComponents(); // Lägg till AddInteractiveServerComponents() för interaktiva komponenter
+// Add services to the container.
+builder.Services.AddRazorComponents()
+    .AddInteractiveServerComponents();
 
 // Registrera DataFetcher som en scoped tjänst
 builder.Services.AddScoped<DataFetcher>();
@@ -12,23 +13,23 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https:/
 
 var app = builder.Build();
 
-// Konfigurera HTTP-requestpipelinen.
+// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error");
+    app.UseExceptionHandler("/Error", createScopeForErrors: true);
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
-app.UseRouting();
 
-// Lägg till Anti-forgery middleware0
+app.UseStaticFiles();
 app.UseAntiforgery();
 
 // Lägg till Blazor-komponenter och konfigurera routning
 app.MapRazorComponents<App>()
-    .AddInteractiveServerRenderMode(); // Lägg till renderläge här
+    .AddInteractiveServerRenderMode();
 
-// Kör applikationen
 app.Run();
+
+

@@ -3,6 +3,7 @@
 @inject NavigationManager NavigationManager
 @rendermode InteractiveServer
 
+@using SinusWebShopLeutrim2.Managers
 @using SinusWebShopLeutrim2.Models
 @using System.Net.Http.Json
 
@@ -14,9 +15,9 @@
             @if (Product.Images.Count > 1)
             {
                 <div class="image-navigation">
-                    <button @onclick="PreviousImage" class="image-nav-button" disabled="@IsFirstImage">&#10094;</button>
+                    <button @onclick="PreviousImage" class="image-nav-button">&#10094;</button>
                     <span class="image-counter">@currentIndex + 1 of @Product.Images.Count</span>
-                    <button @onclick="NextImage" class="image-nav-button" disabled="@IsLastImage">&#10095;</button>
+                    <button @onclick="() => NextImage()" class="image-nav-button" disabled="@IsLastImage">&#10095;</button>
                 </div>
             }
         </div>
@@ -27,7 +28,7 @@
             <p class="stock">Stock: @Product.Stock</p>
             <p class="brand">Brand: @Product.Brand</p>
             <p class="category">Category: @Product.Category</p>
-            <button @onclick="AddToCart" class="add-to-cart-btn">Add to Cart</button>
+            <a type="button" @onclick="AddToCart" class="add-to-cart-btn">Add to Cart</a>
         </div>
     }
     else
@@ -76,11 +77,10 @@
 
     private async Task AddToCart()
     {
-        // Simulate adding to cart with delay
         Console.WriteLine("Adding product to cart...");
-        await Task.Delay(2000); // Simulate async operation
+        CartManager.AddToCart(Product);
         Console.WriteLine("Product added to cart!");
-        NavigationManager.NavigateTo("/cart"); // Redirect to cart page
+        NavigationManager.NavigateTo("/cart"); 
     }
 }
 

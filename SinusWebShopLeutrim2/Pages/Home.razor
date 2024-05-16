@@ -17,6 +17,7 @@
             <div class="category-card" @onclick="() => NavigateToCategory(category)">
                 <h2>@category</h2>
                 <p>Explore products in this category</p>
+                <a class="btn btn-light" href="@($"/category/{category}")">see more</a>
             </div>
         }
     </div>

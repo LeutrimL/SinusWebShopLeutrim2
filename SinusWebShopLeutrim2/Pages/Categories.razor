@@ -1,10 +1,10 @@
-﻿@page "/category/{categoryName}"
+﻿@page "/category/{CategoryName}"
 @inject HttpClient httpClient
 @inject NavigationManager NavigationManager
 @rendermode InteractiveServer
 
-@using SinusWebShopLeutrim.Models
 @using System.Net.Http.Json
+@using SinusWebShopLeutrim2.Models
 
 <div class="container">
     <div class="sidebar">
@@ -46,7 +46,8 @@
                         <div class="product-details">
                             <h3>@product.Title</h3>
                             <p>Price: @product.Price</p>
-                            <button class="details-button">View Details</button>
+                            <a class="btn btn-light" href="@($"/product/{product.Id}")">see more</a>
+
                         </div>
                     </div>
                 }

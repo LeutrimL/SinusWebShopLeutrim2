@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\api\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\api\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\managers\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\managers\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\categories.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\categories.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,36 +35,32 @@
       "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\orderconf.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\orderconf.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\managers\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\managers\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\api\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\api\\apicaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|solutionrelative:sinuswebshopleutrim2\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DFAB6EF-A8AC-43BF-8244-0F89253BA5B6}|SinusWebShopLeutrim2\\SinusWebShopLeutrim2.csproj|c:\\users\\gentrit limani\\desktop\\sinuswebshopleutrim2\\sinuswebshopleutrim2\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -82,72 +82,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartManager.cs",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Managers\\CartManager.cs",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Managers\\CartManager.cs",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Managers\\CartManager.cs",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\Managers\\CartManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T20:34:59.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T21:48:20.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T21:48:21.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiCaller.cs",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\API\\ApiCaller.cs",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\API\\ApiCaller.cs",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\API\\ApiCaller.cs",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\API\\ApiCaller.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T20:32:55.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Models\\Order.cs",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T20:33:41.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Models\\Product.cs",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Models\\Product.cs",
@@ -155,12 +90,11 @@
               "RelativeToolTip": "SinusWebShopLeutrim2\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T20:33:34.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T20:33:34.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Root.cs",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Models\\Root.cs",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Models\\Root.cs",
@@ -168,25 +102,24 @@
               "RelativeToolTip": "SinusWebShopLeutrim2\\Models\\Root.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T20:33:27.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T20:33:27.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Program.cs",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Program.cs",
               "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Program.cs",
               "RelativeToolTip": "SinusWebShopLeutrim2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:59:45.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\_Imports.razor",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\_Imports.razor",
@@ -199,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\App.razor",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\App.razor",
@@ -212,65 +145,127 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Orderconf.razor",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Orderconf.razor",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\Orderconf.razor",
               "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Orderconf.razor",
               "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\Orderconf.razor",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T22:45:41.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T22:45:41.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Cart.razor",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Cart.razor",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\Cart.razor",
               "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Cart.razor",
               "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\Cart.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAEAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-10T14:29:39.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductDetails.razor",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T19:23:45.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Products.razor",
-              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Products.razor",
-              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\Products.razor",
-              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Products.razor",
-              "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\Products.razor",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T21:57:16.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Home.razor",
               "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\Home.razor",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T20:30:20.663Z"
+              "WhenOpened": "2024-05-05T20:30:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDetails.razor",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\ProductDetails.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T19:23:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Models\\Order.cs",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:33:41.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Managers\\CartManager.cs",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Managers\\CartManager.cs",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Managers\\CartManager.cs",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\Managers\\CartManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:34:59.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.razor",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Categories.razor",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Pages\\Categories.razor",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Pages\\Categories.razor",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\Pages\\Categories.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T17:22:27.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiCaller.cs",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\API\\ApiCaller.cs",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\API\\ApiCaller.cs",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\API\\ApiCaller.cs",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\API\\ApiCaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:32:55.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T21:48:21.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Gentrit Limani\\Desktop\\SinusWebShopLeutrim2\\SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "SinusWebShopLeutrim2\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T21:48:20.969Z"
             },
             {
               "$type": "Document",
